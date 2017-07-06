@@ -1,0 +1,5 @@
+venv
+*.pyc
+.idea
+test_data
+.DS_Store
